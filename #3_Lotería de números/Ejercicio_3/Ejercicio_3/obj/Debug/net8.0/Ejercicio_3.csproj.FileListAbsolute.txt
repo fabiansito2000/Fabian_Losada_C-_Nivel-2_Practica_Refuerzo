@@ -1,0 +1,14 @@
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.exe
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.deps.json
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.runtimeconfig.json
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.dll
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\bin\Debug\net8.0\Ejercicio_3.pdb
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.AssemblyInfoInputs.cache
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.AssemblyInfo.cs
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.dll
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\refint\Ejercicio_3.dll
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.pdb
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\Ejercicio_3.genruntimeconfig.cache
+C:\Users\Admi\Downloads\FABIAN_LOSADA_Practica 2 de Array, Lista y Diccionarios\#3_Lotería de números\Ejercicio_3\Ejercicio_3\obj\Debug\net8.0\ref\Ejercicio_3.dll
